@@ -2,7 +2,10 @@
 
 В файле init.txt заданы начальные условия вида
 
-Кол-во тел
-m1 r1_x r1_y r1_z v1_x v1_y v1_z
-...
-mn rn_x rn_y rn_z vn_x vn_y vn_z 
+Кол-во тел  
+
+m1 r1_x r1_y r1_z v1_x v1_y v1_z  
+
+...  
+
+mn rn_x rn_y rn_z vn_x vn_y vn_z   
